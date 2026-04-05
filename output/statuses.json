@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "label": "Uusi ilman hintalappua",
+    "type": "default"
+  },
+  {
+    "id": "2",
+    "label": "Erittäin hyvä",
+    "type": "default"
+  },
+  {
+    "id": "3",
+    "label": "Hyvä",
+    "type": "default"
+  },
+  {
+    "id": "6",
+    "label": "Uusi, jossa hintalappu",
+    "type": "default"
+  }
+]

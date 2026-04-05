@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-04-05T19:15:46.383Z",
+  "region_count": 20,
+  "roots": [
+    {
+      "id": 1904,
+      "slug": "1904-women"
+    },
+    {
+      "id": 5,
+      "slug": "5-men"
+    },
+    {
+      "id": 2993,
+      "slug": "2993-designer"
+    },
+    {
+      "id": 1193,
+      "slug": "1193-kids"
+    },
+    {
+      "id": 1918,
+      "slug": "1918-home"
+    },
+    {
+      "id": 2994,
+      "slug": "2994-electronics"
+    },
+    {
+      "id": 2309,
+      "slug": "2309-entertainment"
+    },
+    {
+      "id": 4824,
+      "slug": "4824-hobbies-and-collectables"
+    },
+    {
+      "id": 4332,
+      "slug": "4332-sports"
+    }
+  ]
+}

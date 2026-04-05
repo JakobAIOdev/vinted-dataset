@@ -1,0 +1,14 @@
+{
+  "name": "vinted-dataset-service",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/cli.js scrape",
+    "serve": "node src/cli.js serve",
+    "start": "node src/cli.js serve"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}

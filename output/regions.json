@@ -1,0 +1,102 @@
+[
+  {
+    "code": "de",
+    "label": "Germany",
+    "domain": "vinted.de"
+  },
+  {
+    "code": "fr",
+    "label": "France",
+    "domain": "vinted.fr"
+  },
+  {
+    "code": "it",
+    "label": "Italy",
+    "domain": "vinted.it"
+  },
+  {
+    "code": "es",
+    "label": "Spain",
+    "domain": "vinted.es"
+  },
+  {
+    "code": "nl",
+    "label": "Netherlands",
+    "domain": "vinted.nl"
+  },
+  {
+    "code": "pl",
+    "label": "Poland",
+    "domain": "vinted.pl"
+  },
+  {
+    "code": "pt",
+    "label": "Portugal",
+    "domain": "vinted.pt"
+  },
+  {
+    "code": "be",
+    "label": "Belgium",
+    "domain": "vinted.be"
+  },
+  {
+    "code": "at",
+    "label": "Austria",
+    "domain": "vinted.at"
+  },
+  {
+    "code": "lu",
+    "label": "Luxembourg",
+    "domain": "vinted.lu"
+  },
+  {
+    "code": "uk",
+    "label": "United Kingdom",
+    "domain": "vinted.co.uk"
+  },
+  {
+    "code": "cz",
+    "label": "Czech Republic",
+    "domain": "vinted.cz"
+  },
+  {
+    "code": "sk",
+    "label": "Slovakia",
+    "domain": "vinted.sk"
+  },
+  {
+    "code": "lt",
+    "label": "Lithuania",
+    "domain": "vinted.lt"
+  },
+  {
+    "code": "se",
+    "label": "Sweden",
+    "domain": "vinted.se"
+  },
+  {
+    "code": "dk",
+    "label": "Denmark",
+    "domain": "vinted.dk"
+  },
+  {
+    "code": "ro",
+    "label": "Romania",
+    "domain": "vinted.ro"
+  },
+  {
+    "code": "hu",
+    "label": "Hungary",
+    "domain": "vinted.hu"
+  },
+  {
+    "code": "hr",
+    "label": "Croatia",
+    "domain": "vinted.hr"
+  },
+  {
+    "code": "fi",
+    "label": "Finland",
+    "domain": "vinted.fi"
+  }
+]
