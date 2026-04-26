@@ -555,7 +555,6 @@ export async function scrapeDataset() {
       }
 
       const groups = await loadCatalogTree(page, region, rootCatalogs);
-      groupsByRegion[region.code] = groups;
 
       const catalogIds = collectRootCatalogIds(groups);
       log(`Using root catalog ids for filters: ${catalogIds.join(", ")}`);
