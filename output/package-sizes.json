@@ -1,0 +1,28 @@
+{
+    "package_sizes": [
+        {
+            "id": 1,
+            "code": "SMALL",
+            "title": "Small",
+            "name": "Small (500 g max)",
+            "description": "Suitable for an item that fits in a large envelope.",
+            "weight_description": "0.5 kg"
+        },
+        {
+            "id": 2,
+            "code": "MEDIUM",
+            "title": "Medium",
+            "name": "Medium (1 kg max)",
+            "description": "Suitable for an item that fits in a shoebox.",
+            "weight_description": "1 kg"
+        },
+        {
+            "id": 3,
+            "code": "LARGE",
+            "title": "Large",
+            "name": "Large (2 kg max)",
+            "description": "Suitable for an item that fits in a moving box.",
+            "weight_description": "2.0 kg"
+        }
+    ]
+}
